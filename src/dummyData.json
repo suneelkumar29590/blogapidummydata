@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "title": "Blog Post 1",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "id": 2,
+      "title": "Blog Post 2",
+      "content": "Pellentesque eget dolor eget odio ultrices fermentum nec eu mauris."
+    },
+    {
+      "id": 3,
+      "title": "Blog Post 3",
+      "content": "Sed tincidunt sapien nec magna eleifend, ut pellentesque neque iaculis."
+    }
+  ]
+  
